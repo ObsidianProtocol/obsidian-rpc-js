@@ -3,13 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "ng": "ng",
     "start": "node /lib/init.js",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e",
-    "postinstall": "ng build --output-path dist" },
+    },
   "author": "Brandon Lehmann <brandonlehmann@gmail.com>",
   "license": "AGPL-3.0",
   "bugs": {
